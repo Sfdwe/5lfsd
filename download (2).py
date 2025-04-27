@@ -16,3 +16,6 @@ def calculate_statistics():
           f"Стандартное отклонение: {stdev:.2f}, Корень из суммы: {sqrt_sum}")
 
 
+# Вызываем функцию для выполнения расчетов и вывода результатов
+calculate_statistics()
+
